@@ -24,7 +24,8 @@ Github Account
 Set up and configure git on your system.
 
 ### Install
-Clone this repository
+Install Git on your System
+Clone this repository using the the git clone command, URL is (https://github.com/ifnotlily/Hello-Micoverse-Project.git)
 
 
 
